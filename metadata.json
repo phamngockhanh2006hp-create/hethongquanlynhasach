@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hệ Thống Quản Lý Nhà Sách",
+  "description": "Hệ thống phần mềm quản lý nhà sách toàn diện: quản lý danh mục sách, kho bãi, nhập xuất, bán hàng POS, hóa đơn, khách hàng thân thiết, phân quyền nhân sự và báo cáo thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
